@@ -21,3 +21,39 @@ is `src/routes/__root.tsx`.
 `routeTree.gen.ts` is auto-generated. Don't edit it by hand.
 ## Live Demo
 [Open Student Performance Predictor](https://preview--insight-spark-622.lovable.app)
+# Student Performance Predictor
+
+## Objective
+The Student Performance Predictor is a machine learning-based web application designed to predict student academic performance based on various input factors such as study hours, attendance, previous scores, and other academic indicators.
+
+The main objective of this project is to help students and educators analyze performance trends and identify factors affecting academic outcomes.
+
+---
+
+## Features
+- Predicts student academic performance
+- User-friendly web interface
+- Input-based prediction system
+- Real-time result generation
+- Data-driven analysis
+- Interactive and responsive design
+
+---
+
+## Tech Stack
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+### Backend
+- Python
+
+### Machine Learning
+- Scikit-learn
+- Pandas
+- NumPy
+
+### Deployment
+- Lovable
